@@ -1,6 +1,6 @@
 # Joinville
 
- <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+ 
 ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![Laravel](https://github.com/DevCleverton/sing-Master/workflows/Laravel/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)
 
 My name is Cleverton. I am a Front-end Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
