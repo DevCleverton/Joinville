@@ -1,6 +1,6 @@
 # Joinville
 
- 
+ [![license](https://img.shields.io/github/license/peaceiris/actions-pixela.svg)](https://github.com/peaceiris/actions-pixela/blob/main/LICENSE)
 ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)
 
 My name is Cleverton. I am a Front-end Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
