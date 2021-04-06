@@ -28,7 +28,7 @@ Machine Learning Azure Machine Learning.
   
   <a href="https://getbootstrap.com/" alt="Bootstrap">
     <img src = "https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com//othiagoperess" /></a> </p> 
-    ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+    ![](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
     
 </p>
 
