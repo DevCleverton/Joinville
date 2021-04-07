@@ -6,7 +6,7 @@
 [![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom)
 
 
-My name is Cleverton. I am a Front-end Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
+My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
 
 
 🌱 I am currently studying: AI artificial intelligence academy AI-
