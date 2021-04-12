@@ -3,6 +3,7 @@
  
 ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-pixela/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-pixela)
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom)
 
 
