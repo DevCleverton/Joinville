@@ -52,13 +52,7 @@
 
 
 
-My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
 
-
-🌱 I am currently studying: AI artificial intelligence academy AI-
-💬 MY E-mail ... DevCleverton@gmail.com Skills: PHP-7,React,TypeScript,Angular,Node.js, HTML5, CSS3, JavaScript, Sass, Vue, Bootstrap, WordPress ...
-🔧 Tools: Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git, GitHub
-Machine Learning Azure Machine Learning.
 
 <a href="https://app.rocketseat.com.br/me/solrachix">
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
@@ -149,6 +143,8 @@ Machine Learning Azure Machine Learning.
 </a>
 <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
  [!['status'](https://github.com/DevCleverton/DevCleverton/issues)]
+ 
+ 
  <img
 	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
 	width="200px"
