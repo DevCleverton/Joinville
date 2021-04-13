@@ -16,6 +16,51 @@ Machine Learning Azure Machine Learning.
 
 
 #### :wrench: Ferramentas e ambientes
+<p align = "left">
+  ⚙️ 
+    <p class = "left">
+    
+  <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
+  <img src = "https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/ "/> </a>
+
+  <a href="https://git-scm.com/" alt="Git">
+  <img src = "https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/" /> </ a >
+
+  <a href="https://github.com/" alt="GitHub">
+    <img src = "https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/" /> </a>
+
+  <a href="https://www.canva.com/" alt="Canva">
+    <img src = "https://img.shields.io/badge/-Canva-9932CC?style=for-the-badge&logo=canva&logoColor=white&link=https://www.canva.com/" /> </a>
+</p> 
+</p>
+<p align = "left" style = "text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large;">
+    Entrar em contato:
+</p>
+
+<p class = "left">
+  <a href="" alt="Instagram">
+  <img src = "https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=" /> </a>
+  
+  <a href="" alt="Linkedin">
+  <img src = "https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/" / > </a>
+
+  <a href="https://thiagoperess.medium.com/" alt="Medium">
+  <img src = "https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://https://medium.com/" / > </a>
+
+  <a href="https://twitter.com/othiagoperess" alt="Twitter">
+    <img src = "https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com" /> </a>
+</p>  
+
+
+  <a href="https://api.whatsapp.com/send?phone=5547997511535&text=Olá%code,%20tudo%20bem?" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997511535&text=Olá%20,%20tudo%20bem?"/></a>
+
+  <a href="https://www.facebook.com/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/"/></a>
+  
+  
+
+
 
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -96,49 +141,7 @@ Machine Learning Azure Machine Learning.
     
 
 
-<p align = "left">
-  ⚙️ Ferramentas:
-    <p class = "left">
-    
-  <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
-  <img src = "https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/ "/> </a>
 
-  <a href="https://git-scm.com/" alt="Git">
-  <img src = "https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/" /> </ a >
-
-  <a href="https://github.com/" alt="GitHub">
-    <img src = "https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/" /> </a>
-
-  <a href="https://www.canva.com/" alt="Canva">
-    <img src = "https://img.shields.io/badge/-Canva-9932CC?style=for-the-badge&logo=canva&logoColor=white&link=https://www.canva.com/" /> </a>
-</p> 
-</p>
-<p align = "left" style = "text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large;">
-    Entrar em contato:
-</p>
-
-<p class = "left">
-  <a href="" alt="Instagram">
-  <img src = "https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=" /> </a>
-  
-  <a href="" alt="Linkedin">
-  <img src = "https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/" / > </a>
-
-  <a href="https://thiagoperess.medium.com/" alt="Medium">
-  <img src = "https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://https://medium.com/" / > </a>
-
-  <a href="https://twitter.com/othiagoperess" alt="Twitter">
-    <img src = "https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com" /> </a>
-</p>  
-
-
-  <a href="https://api.whatsapp.com/send?phone=5547997511535&text=Olá%code,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997511535&text=Olá%20,%20tudo%20bem?"/></a>
-
-  <a href="https://www.facebook.com/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/"/></a>
-  
-  
   
   
 
