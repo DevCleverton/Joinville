@@ -142,13 +142,7 @@ Machine Learning Azure Machine Learning.
 </br>
 
 
-<img src="https://docs.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-	width="40px"
-	height="39px"
-	align="right"
-/>
 
-<!--
 
 
 
