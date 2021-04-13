@@ -19,7 +19,13 @@ My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a De
 <a href="https://app.rocketseat.com.br/me/solrachix">
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
 </a>
-🌱 I am currently studying: AI artificial intelligence academy AI-
+🌱 I am currently studying: AI artificial intelligence academy AI-<img src="https://docs.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+	width="20px"
+	height="19px"
+	align="right"
+/>
+
+<!--
 💬 MY E-mail ... DevCleverton@gmail.com Skills: PHP-7,React,TypeScript,Angular,Node.js, HTML5, CSS3, JavaScript, Sass, Vue, Bootstrap, WordPress ...
 🔧 Tools: Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git, GitHub
 Machine Learning Azure Machine Learning.
