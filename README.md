@@ -44,7 +44,7 @@ Machine Learning Azure Machine Learning.
   
   <a href="https://getbootstrap.com/" alt="Bootstrap">
     <img src = "https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com//othiagoperess" /></a> </p> 
-    
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 #### :wrench: Ferramentas e ambientes
