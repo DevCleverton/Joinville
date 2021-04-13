@@ -5,6 +5,51 @@
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom)
+#### :wrench: Ferramentas e ambientes
+
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+</a>
+
+
+
+#### Arquiteturas & Outros
+
+<p align="left">
+
+<a href="#">
+      <img alt="Microservices" src="https://img.shields.io/badge/Microservices-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="MVC" src="https://img.shields.io/badge/MVC-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="DesignPattern" src="https://img.shields.io/badge/DesignPattern-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="CleanCode" src="https://img.shields.io/badge/CleanCode-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
+</a>
+</p>
+
+---
+</br>
+</br>
+
 
 
 My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
@@ -98,4 +143,11 @@ Machine Learning Azure Machine Learning.
 </a>
 <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
  [!['status'](https://github.com/DevCleverton/DevCleverton/issues)]
+ <img
+	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
+	width="200px"
+	height="160px"
+	align="right"
+/>
+ 
 
