@@ -51,7 +51,7 @@ Machine Learning Azure Machine Learning.
 #### :wrench: Ferramentas e ambientes ⚙️ 
 <p align = "left">
   
-    <p class = "left">
+
     
   <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
   <img src = "https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/ "/> </a>
