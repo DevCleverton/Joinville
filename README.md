@@ -5,6 +5,16 @@
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom)
+My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
+
+
+🌱 I am currently studying: AI artificial intelligence academy AI-
+💬 MY E-mail ... DevCleverton@gmail.com Skills: PHP-7,React,TypeScript,Angular,Node.js, HTML5, CSS3, JavaScript, Sass, Vue, Bootstrap, WordPress ...
+🔧 Tools: Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git, GitHub
+Machine Learning Azure Machine Learning.
+
+
+
 #### :wrench: Ferramentas e ambientes
 
 <a href="#">
