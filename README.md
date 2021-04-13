@@ -180,7 +180,7 @@ Machine Learning Azure Machine Learning.
  
  
  <img
-	src="https://media1.tenor.com/images/ac5c09eb21d3cdc3e38acc77c1db6d57/tenor.gif?itemid=15740988"
+	src="https://media.tenor.com/images/073a8ff32903b5f5315c4cf62b9b90a0/tenor.gif"
 	width="200px"
 	height="160px"
 	align="right"
