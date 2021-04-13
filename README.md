@@ -180,7 +180,7 @@ Machine Learning Azure Machine Learning.
  
  
  <img
-	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
+	src="https://i.pinimg.com/originals/71/b7/51/71b751bd42b391dec9c61a18fdace999.gif"
 	width="200px"
 	height="160px"
 	align="right"
