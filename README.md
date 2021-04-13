@@ -180,7 +180,7 @@ Machine Learning Azure Machine Learning.
  
  
  <img
-	src="https://i.pinimg.com/originals/71/b7/51/71b751bd42b391dec9c61a18fdace999.gif"
+	src="https://tenor.com/view/dritan-dritan-alsela-coffee-barista-dusseldorf-gif-15311219"
 	width="200px"
 	height="160px"
 	align="right"
