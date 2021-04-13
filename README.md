@@ -20,7 +20,7 @@ My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a De
 🌱 I am currently studying: AI artificial intelligence academy AI-
 
 <!-
-💬  E-mail ... DevCleverton@gmail.com, works: Framework Wordpress
+💬  E-mail ... DevCleverton@gmail.com, works: CMS Wordpress
 🔧 Tools: Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git, GitHub
 Machine Learning Azure Machine Learning.
 💬 Languages
