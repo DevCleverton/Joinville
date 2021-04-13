@@ -5,7 +5,16 @@
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom)
-My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.
+My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a Designer of High Standard Furniture.<img
+	src="https://github.com/solrachix/solrachix/blob/master/ativos/dev_productivit.svg?raw=true"
+	width="400px"
+	height="390px"
+	align="right"
+/>
+
+<!--
+[![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
+-->
 
 <a href="https://app.rocketseat.com.br/me/solrachix">
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
