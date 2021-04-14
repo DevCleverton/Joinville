@@ -1,4 +1,4 @@
-# Joinville SC 2021
+#Joinville SC 2021
 
  
 ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-pixela/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-pixela)
@@ -40,8 +40,6 @@ Machine Learning Azure Machine Learning.
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="Javascript">
     <img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/othiagoperess"/></a>
-
-
   
   <a href="https://getbootstrap.com/" alt="Bootstrap">
     <img src = "https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com//othiagoperess" /></a> </p> 
@@ -49,9 +47,7 @@ Machine Learning Azure Machine Learning.
 
 
 #### :wrench: Ferramentas e ambientes ⚙️ 
-<p align = "left">
-  
-
+<p align = "left"> 
     
   <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
   <img src = "https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/ "/> </a>
@@ -82,8 +78,6 @@ Machine Learning Azure Machine Learning.
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
 
-
-
 </p>
 <p align = "left" style = "text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large;">
     Entrar em contato:
@@ -102,23 +96,13 @@ Machine Learning Azure Machine Learning.
   <a href="https://twitter.com" alt="Twitter">
     <img src = "https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com" /> </a>
 </p>  
-
-
   <a href="https://api.whatsapp.com/send?phone=5547997511535&text=Olá%code,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997511535&text=Olá%20,%20tudo%20bem?"/></a>
 
   <a href="https://www.facebook.com/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/"/></a>
-  
-  
-
-
-
-
-
 
 #### Arquiteturas & Outros
-
 <p align="left">
 
 <a href="#">
@@ -137,29 +121,11 @@ Machine Learning Azure Machine Learning.
       <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
 </a>
 </p>
-- Databases: CassandraDB, MongoDB <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>, MySQL <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-- Agile practices: Extreme Programming, Scrum
-- Mobile: Swift <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"/></code>
+MongoDB <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>, MySQL <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+Mobile: Swift <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"/></code>
 ---
 </br>
-</br>
-
-
-
-
-
-
-
-
-
-
-    
-   
-    
-
-
-
-  
+      
   
 
   ![DevCleverton GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCleverton&show_icons=true&theme=radical)
