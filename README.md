@@ -13,7 +13,7 @@ My name is Cleverton. I am a Developer, Auto Cad Designer  , Experiences as a De
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
 </a>
 🌱 I am currently studying: AI artificial intelligence academy AI-<img
-src="https://github.githubassets.com/images/modules/site/enterprise/launchpad/hero/enterprise-garden-1.h264.mp4"
+src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg"
 	width="400px"
 	height="390px"
 	align="right"
