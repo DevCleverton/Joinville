@@ -34,13 +34,13 @@ Machine Learning Azure Machine Learning.
   <img src = "https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3schools.com/css/" /> </a>
 
   <a href="https://www.python.org/" alt="Python">
-  <img src = "https://img.shields.io/badge/-Python-000080?style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org/" /> </a>
+  <img src ="https://img.shields.io/badge/-Python-000080?style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org/" /> </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="Javascript">
     <img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/othiagoperess"/></a>
   
   <a href="https://getbootstrap.com/" alt="Bootstrap">
-    <img src = "https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com//othiagoperess" /></a> </p> 
+    <img src ="https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com//othiagoperess" /></a> </p> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
@@ -48,10 +48,10 @@ Machine Learning Azure Machine Learning.
 <p align = "left"> 
     
   <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
-  <img src = "https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/ "/> </a>
+  <img src ="https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/ "/> </a>
 
   <a href="https://git-scm.com/" alt="Git">
-  <img src = "https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/" /> </ a >
+  <img src ="https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/" /> </ a >
 
   <a href="https://github.com/" alt="GitHub">
     <img src = "https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/" /> </a>
