@@ -154,16 +154,7 @@ Machine Learning Azure Machine Learning.
       
   
 
-  ![DevCleverton GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCleverton&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCleverton&langs_count=8)](https://github.com/DevCleverton/DevCleverton/issues)
-
- <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" aria-current="page" data-selected-links="repo_issues repo_labels repo_milestones /DevCleverton/DevCleverton/issues" href="/DevCleverton/DevCleverton/issues">
-                <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
-              <span data-content="Issues">Issues</span>
-                <span title="0" hidden="hidden" class="Counter ">0</span>
-</a>
-
+  
  
  
  
