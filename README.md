@@ -151,9 +151,8 @@ Machine Learning Azure Machine Learning.
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"/></code>
 
 </br>
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCleverton&show_icons=true&theme=radical)
-[![DevCleverton's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/devcleverton)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCleverton&langs_count=8)](https://github.com/DevCleverton/DevCleverton/issues)
+
+[![DevCleverton's github stats](https://github-readme-stats.vercel.app/api?username=DevCleverton&theme=dark&show_icons=true&count_private=true)](https://github.com/Devcleverton)
 
  
     branches:
