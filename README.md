@@ -152,7 +152,7 @@ Machine Learning Azure Machine Learning.
 
 </br>
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCleverton&show_icons=true&theme=radical)
-
+[![DevCleverton's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/devcleverton)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCleverton&langs_count=8)](https://github.com/DevCleverton/DevCleverton/issues)
 
  
