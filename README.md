@@ -170,7 +170,7 @@ Machine Learning Azure Machine Learning.
  
  
  
- Antes de você falar,ouça.Antes de agir, pense. Antes de criticar, conheça. E antes de desistir, tente
+ 
  
  
  <img
