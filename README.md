@@ -161,7 +161,7 @@ Machine Learning Azure Machine Learning.
       - master
       
 
-        ![Snake animation](https://github.com/juniorcintra/juniorcintra/blob/output/github-contribution-grid-snake.svg)
+        
 
       
   
