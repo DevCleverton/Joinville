@@ -58,22 +58,19 @@ Machine Learning Azure Machine Learning.
 <p align = "left">
    
   <p class = "left">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="HMTL">
-  <img src="https://img.shields.io/badge/-HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML"/></a>
-    
-  <a href="https://www.w3schools.com/css/" alt="CSS">
-  <img src = "https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3schools.com/css/" /> </a>
-
-  <a href="https://www.python.org/" alt="Python">
-  <img src ="https://img.shields.io/badge/-Python-000080?style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org/" /> </a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="Javascript">
-    <img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/othiagoperess"/></a>  
-  <a href="https://getbootstrap.com/" alt="Bootstrap">
-    <img src ="https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com//othiagoperess" /></a> 
-    <a href="https://getbootstrap.com/" alt="B">          </p> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><img style="-webkit-user-select: none;" src="https://angular.io/assets/images/favicons/favicon.ico">  </p>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 #### :wrench: Ferramentas e ambientes ⚙️ 
 <p align = "left"> 
     
