@@ -12,7 +12,7 @@ My name is Cleverton.I am a Developer,Auto Cad Designer!<br>
 
 
 <a href="">
-  <img align="left" alt="David Leal's GitLab profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <img align="left" alt="" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 
 <a href="https://www.youtube.com/">
@@ -73,7 +73,7 @@ Machine Learning Azure Machine Learning.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-#### :wrench: Ferramentas e ambientes ⚙️ 
+:wrench: Ferramentas e ambientes ⚙️ 
 <p align = "left"> 
     
   <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
