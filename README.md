@@ -165,7 +165,7 @@ Machine Learning Azure Machine Learning.
   
 
   
- <img src="https://github.com/juniorcintra/juniorcintra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
  
  
