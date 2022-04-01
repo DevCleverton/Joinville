@@ -179,8 +179,21 @@ Machine Learning Azure Machine Learning.
 
 branches:
       - master Sites:
+<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br>
+<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br>
+<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br>**<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<br>
 
-https://1ywovo18l4.codesandbox.io/<br>
+
+
+
 https://codepen.io/clevertonRocha/embed/KKMooNO?height=265&theme-id=light&default-tab=css,result<br>
 https://angular-form-seven.vercel.app/<br>
 https://react-js-sand.vercel.app/<br>
