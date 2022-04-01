@@ -181,22 +181,18 @@ branches:
       - master Sites:
 <p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
 <br>
-<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<p>Confira <a href="https://codepen.io/clevertonRocha/embed/KKMooNO?height=265&theme-id=light&default-tab=css,result" target="_blank"> Dev Cleverton</a>.</p>
 <br>
-<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
-<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
-<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
-<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
-<br><p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
-<br>**<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
+<p>Confira <a href="https://angular-form-seven.vercel.app/" target="_blank"> Dev Cleverton</a>.</p><br>
+<br><p>Confira <a href="https://react-js-sand.vercel.app/" target="_blank"> Dev Cleverton</a>.</p>
 <br>
 
 
 
 
-https://codepen.io/clevertonRocha/embed/KKMooNO?height=265&theme-id=light&default-tab=css,result<br>
-https://angular-form-seven.vercel.app/<br>
-https://react-js-sand.vercel.app/<br>
+
+
+
 https://fullstack-cleverton.github.io/Negocio-casual/<br>
 https://fullstack-cleverton.github.io/Planetas.css/<br>
 https://fullstack-cleverton.github.io/Vanilla.JS/<br>
