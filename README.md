@@ -53,9 +53,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 	align="right"
 />
 
-CMS: Wordpress
-🔧Tools: Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git, GitHub
-Machine Learning Azure Machine Learning.
+
 
 <p align = "left">
    
