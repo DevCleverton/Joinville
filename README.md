@@ -154,8 +154,7 @@ Machine Learning Azure Machine Learning.
 [![DevCleverton's github stats](https://github-readme-stats.vercel.app/api?username=DevCleverton&theme=dark&show_icons=true&count_private=true)](https://github.com/Devcleverton)
 
  
-    branches:
-      - master
+    
       
 
         
@@ -174,5 +173,23 @@ Machine Learning Azure Machine Learning.
 	height="120px"
 	align="right"
 />
- 
+
+
+branches:
+      - master Sites:
+
+https://1ywovo18l4.codesandbox.io/<br>
+https://codepen.io/clevertonRocha/embed/KKMooNO?height=265&theme-id=light&default-tab=css,result<br>
+https://angular-form-seven.vercel.app/<br>
+https://react-js-sand.vercel.app/<br>
+https://fullstack-cleverton.github.io/Negocio-casual/<br>
+https://fullstack-cleverton.github.io/Planetas.css/<br>
+https://fullstack-cleverton.github.io/Vanilla.JS/<br>
+https://fullstack-cleverton.github.io/Loja_Virtual/#<br>
+https://premiumwebclever.github.io/FullStackJoinville/ <br>
+https://github.com/DevCleverton/nlw-06-reactjs<br>
+https://nextjs-steel-nu-12.vercel.app/ <br>
+https://github.com/DevCleverton/nlw-05-react-native <br>
+https://login-blush.vercel.app/<br>
+https://codepen.io/clevertonRocha
 
