@@ -1,5 +1,5 @@
-local:Joinville SC
-My name is Cleverton.I am a Developer,Auto Cad Designer!<br>
+Joinville SC
+My name is Cleverton I am a Developer/Designer<br>
 [![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 
