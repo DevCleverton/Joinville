@@ -177,5 +177,5 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
 
 branches:
-      - masters:
+      - Master:
 
