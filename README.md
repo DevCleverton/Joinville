@@ -164,7 +164,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
   
 
   
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+ 
 
  <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
@@ -177,29 +177,5 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
 
 branches:
-      - master Sites:
-<p>Confira <a href="https://1ywovo18l4.codesandbox.io/" target="_blank"> Dev Cleverton</a>.</p>
-<br>
-<p>Confira <a href="https://codepen.io/clevertonRocha/embed/KKMooNO?height=265&theme-id=light&default-tab=css,result" target="_blank"> Dev Cleverton</a>.</p>
-<br>
-<p>Confira <a href="https://angular-form-seven.vercel.app/" target="_blank"> Dev Cleverton</a>.</p><br>
-<br><p>Confira <a href="https://react-js-sand.vercel.app/" target="_blank"> Dev Cleverton</a>.</p>
-<br>
-
-
-
-
-
-
-
-https://fullstack-cleverton.github.io/Negocio-casual/<br>
-https://fullstack-cleverton.github.io/Planetas.css/<br>
-https://fullstack-cleverton.github.io/Vanilla.JS/<br>
-https://fullstack-cleverton.github.io/Loja_Virtual/#<br>
-https://premiumwebclever.github.io/FullStackJoinville/ <br>
-https://github.com/DevCleverton/nlw-06-reactjs<br>
-https://nextjs-steel-nu-12.vercel.app/ <br>
-https://github.com/DevCleverton/nlw-05-react-native <br>
-https://login-blush.vercel.app/<br>
-https://codepen.io/clevertonRocha
+      - masters:
 
