@@ -157,7 +157,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
  
     
       
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devcleverton=compact)](https://github.com/devcleverton/github-readme-stats)
         
 
       
