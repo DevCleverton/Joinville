@@ -125,8 +125,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
   <a href="https://api.whatsapp.com/send?phone=5547997511535&text=Olá%code,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997511535&text=Olá%20,%20tudo%20bem?"/></a>
 
-  <a href="https://www.facebook.com/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/"/></a>
+  
 
 #### Arquiteturas & Outros
 <p align="left">
@@ -152,7 +151,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
 </br>
 
-[![DevCleverton's github stats](https://github-readme-stats.vercel.app/api?username=DevCleverton&theme=dark&show_icons=true&count_private=true)](https://github.com/Devcleverton)
+[![DevCleverton's github status](https://github-readme-stats.vercel.app/api?username=DevCleverton&theme=dark&show_icons=true&count_private=true)](https://github.com/Devcleverton)
 
  
     
