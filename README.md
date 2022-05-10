@@ -180,6 +180,6 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
 branches:
       - Master:
-- [![Pix)](https) - You can make one-time donations via Pix. I'll probably buy a ~~coffee~~ tea. :tea:
+- [![Pix-04186283940)](https) - You can make one-time donations via Pix. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
