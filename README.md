@@ -167,6 +167,9 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
  <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
+ 
+ 
+ 
  <img
 	src="https://media.tenor.com/images/073a8ff32903b5f5315c4cf62b9b90a0/tenor.gif"
 	width="160px"
@@ -177,4 +180,6 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
 branches:
       - Master:
+- [![Pix/04186283940](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
+Thanks! :heart:
