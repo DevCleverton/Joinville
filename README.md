@@ -180,6 +180,6 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
 branches:
       - Master:
-- [![Pix/04186283940](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+- [![Pix/04186283940](https://ionicabizau.github.io/badges/paypal.svg)](https) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
