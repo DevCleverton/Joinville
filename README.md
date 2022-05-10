@@ -1,6 +1,7 @@
 Joinville SC
 
-            My name is Cleverton I am a Developer/Designer<br>
+            My name is Cleverton I am a Developer/Designer
+	    
 [![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 
@@ -121,9 +122,9 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
   <a href="https://twitter.com" alt="Twitter">
     <img src = "https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com" /> </a>
-</p>  
+  
   <a href="https://api.whatsapp.com/send?phone=5547997511535&text=Olá%code,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997511535&text=Olá%20,%20tudo%20bem?"/></a>
+  <img src= "https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997511535&text=Olá%20,%20tudo%20bem?" /> </a> </p>
 
   
 
