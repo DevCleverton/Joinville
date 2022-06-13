@@ -1,6 +1,5 @@
 Joinville SC
 Cleverton I am a Developer/Designer
-	    
 
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 
@@ -11,9 +10,6 @@ Cleverton I am a Developer/Designer
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom)
 
-
-
-
 <a href="https://app.rocketseat.com.br">
 <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
 </a>
@@ -23,8 +19,6 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 	height="390px"
 	align="right"
 />
-
-
 
 <p align = "left">
    
@@ -57,7 +51,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
   <a href="https://www.canva.com/" alt="Canva">
     <img src = "https://img.shields.io/badge/-Canva-9932CC?style=for-the-badge&logo=canva&logoColor=white&link=https://www.canva.com/" /> </a>
-</p> 
+</p>
 
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -96,9 +90,8 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
   <a href="https://api.whatsapp.com/send?phone=5547997511535&text=Olá%code,%20tudo%20bem?" alt="WhatsApp">
   <img src= "https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/"send?phone=5547997511535&text=Olá%20,%20tudo%20bem?" /> </a> </p>
 
-  
-
 #### Arquiteturas & Outros
+
 <p align="left">
 
 <a href="#">
@@ -124,16 +117,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
 [![DevCleverton's github status](https://github-readme-stats.vercel.app/api?username=DevCleverton&theme=dark&show_icons=true&count_private=true)](https://github.com/Devcleverton)
 
- 
-    
- 
-        
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcleverton)](https://github.com/devcleverton/github-readme-stats)   
-  
-
-  
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcleverton)](https://github.com/devcleverton/github-readme-stats)
 
  <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
@@ -146,8 +130,3 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 	height="120px"
 	align="right"
 />
-
-
-
-
-
