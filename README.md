@@ -1,5 +1,18 @@
 Joinville SC
-Cleverton I am a Developer/Designer
+
+<p align="center">
+  <b> Hello! </b> <br> <br>
+   <br>I am a Developer/Designer<br><br>
+  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
+  <br>
+  <br>
+
+
+
+
+
+
+
 
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 
@@ -129,4 +142,4 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 	width="160px"
 	height="120px"
 	align="right"
-/>
+/>## Cleverton Rocha
