@@ -1,5 +1,16 @@
-Joinville SC-![visitors](https://visitor-badge.devcleverton/badge?page_id=page.id)
-                
+
+ ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-pixela/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-pixela)
+[![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
+[![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom) 
+[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
+
+
+
+
+
 
 <p align="center">
   <b> Hello! </b> <br> <br>
@@ -15,14 +26,9 @@ Joinville SC-![visitors](https://visitor-badge.devcleverton/badge?page_id=page.i
 
 
 
-[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
+
 
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0596db90-02bb-4a48-aeb1-06ba0496ae3e.jpg" width="248" height="158">
-
-![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-pixela/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-pixela)
-[![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
-[![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
-[![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom)
 
 <a href="https://app.rocketseat.com.br">
 <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
