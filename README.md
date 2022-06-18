@@ -141,4 +141,4 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 	src="https://media.tenor.com/images/073a8ff32903b5f5315c4cf62b9b90a0/tenor.gif"
 	width="160px"
 	height="120px"
-	align="right">.Cleverton Rocha
+	align="right">
