@@ -1,4 +1,5 @@
-Joinville SC
+Joinville SC-![visitors](https://visitor-badge.devcleverton/badge?page_id=page.id)
+                
 
 <p align="center">
   <b> Hello! </b> <br> <br>
