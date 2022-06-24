@@ -13,8 +13,10 @@
 
 
 <p align="center">
-  <b> Hello! </b> <br> <br>
-   <br>I am a Developer/Designer<br><br>
+  <b> Olá pessoal </b> <br> <br>
+  
+>	<br> I am a Developer/Designer UX/UI<br><br>
+	
   <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
   <br>
   <br>
@@ -27,8 +29,10 @@
 
 
 
-
+>Curso recente
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0596db90-02bb-4a48-aeb1-06ba0496ae3e.jpg" width="248" height="158">
+
+> Cursos react.js -reactNative - node.js - javascript na rocktseat
 
 <a href="https://app.rocketseat.com.br">
 <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
@@ -41,7 +45,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 />
 
 <p align = "left">
-   
+   :wrench: Ferramentas que uso no dia a dia! ⚙️
   <p class = "left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
@@ -57,7 +61,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-:wrench: Ferramentas e ambientes ⚙️ 
+ 
 <p align = "left"> 
     
   <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
