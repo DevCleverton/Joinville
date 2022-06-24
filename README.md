@@ -149,8 +149,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
  
  
  <a href="https://g.page/muellerjoi?share">
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;width: 300px;height: 200px;" src="https://raw.githubusercontent.com/DevCleverton/DevCleverton/new/Fachada%20Mueller%20-%20NSC.webp" width="565" height="319">
- 
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;width: 408px;height: 306px;" src="https://raw.githubusercontent.com/DevCleverton/DevCleverton/new/Fachada%20Mueller%20-%20NSC.webp" width="565" height="319">
  
  
  
