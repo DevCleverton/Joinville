@@ -152,6 +152,12 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;width: 300px;height: 200px;" src="https://raw.githubusercontent.com/DevCleverton/DevCleverton/new/Fachada%20Mueller%20-%20NSC.webp" width="565" height="319">
  
  
+ 
+ https://g.page/agoratechpark?share
+ 
+ 
+ 
+ 
  <img
 	src="https://media.tenor.com/images/073a8ff32903b5f5315c4cf62b9b90a0/tenor.gif"
 	width="160px"
