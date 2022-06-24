@@ -141,7 +141,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
  <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
-**trabalhos feitos como Social Midia**
+**trabalhos feitos como Analista Social Midia**
  > Sites/websites - Google meu negocio -ads google street view 360 virtual tour
  
  [Shopping muller e lojas ](https://g.page/muellerjoi?share)
@@ -153,7 +153,10 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
  
  
  
+ 
+ 
   [Ágora Tech Park e empresas ](https://g.page/agoratechpark?share)
+  
  <a href="https://g.page/agoratechpark?share">
  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/DevCleverton/DevCleverton/new/2021-05-03.png">
  
