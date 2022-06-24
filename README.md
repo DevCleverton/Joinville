@@ -144,7 +144,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 **trabalhos feitos como Social Midia**
  > Sites/websites - Google meu negocio -ads google street view 360 virtual tour
  
- [Shopping muller](https://g.page/muellerjoi?share)
+ [Shopping muller e lojas ](https://g.page/muellerjoi?share)
  
  
  
