@@ -29,10 +29,10 @@
 
 
 
->Curso recente
+>Curso recente PHP-7
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0596db90-02bb-4a48-aeb1-06ba0496ae3e.jpg" width="248" height="158">
 
-> Cursos react.js -reactNative - node.js - javascript na rocktseat
+> Outros Cursos: react.js -reactNative - node.js - javascript na rocktseat
 
 <a href="https://app.rocketseat.com.br">
 <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
@@ -145,11 +145,11 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 
  <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
-**trabalhos feitos como Analista Social Midia**
+**trabalhos Google" Analista Social Midia**
  > Sites/websites - Google meu negocio -ads google street view 360 virtual tour
  > Criaçao de paginas facebook/Bussiness instagram, anuncios ads  google analytics
  
- [ Shopping muller e lojas ](https://g.page/muellerjoi?share)
+ [ Shopping muller joinville e lojas ](https://g.page/muellerjoi?share)
  
  
  
