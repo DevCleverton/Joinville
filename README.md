@@ -45,34 +45,45 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 />
 
 <p align = "left">
-   :wrench: Ferramentas que uso no dia a dia! ⚙️
+   :wrench: Ferramentas  ⚙️
   <p class = "left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://juststickers.in/wp-content/uploads/2016/05/reactjs-badge.png" width="47" height="47">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+	  🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+
+<br />
+### Profile Visitors 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0nahid.visitor-badge&left_color=0e75b6&right_color=red)
+<br />
+
+### Contribution graph:  <br />
+[![Nahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/0nahid/github-readme-activity-graph)
+
+### GitHub Stats:  <br />
+<p align = "center">
+ <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&hide_border=true" /> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nahid">
+</p>
+
+<br />
+
  
 <p align = "left"> 
     
-  <a href="https://www.jetbrains.com/pt-br/pycharm/" alt="Pycharm">
-  <img src ="https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/ "/> </a>
-
-  <a href="https://git-scm.com/" alt="Git">
-  <img src ="https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/" /> </ a >
-
-  <a href="https://github.com/" alt="GitHub">
-    <img src = "https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/" /> </a>
-
+   
   <a href="https://www.canva.com/" alt="Canva">
     <img src = "https://img.shields.io/badge/-Canva-9932CC?style=for-the-badge&logo=canva&logoColor=white&link=https://www.canva.com/" /> </a>
 </p>
