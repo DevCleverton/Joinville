@@ -11,7 +11,6 @@
 
 
 
-
 <p align="center">
   <b> Olá pessoal </b> <br> <br>
   
@@ -19,7 +18,7 @@
 	
   <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
   <br>
-  <br>
+  
 
 
 
@@ -63,48 +62,21 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
-<br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0nahid.visitor-badge&left_color=0e75b6&right_color=red)
-<br />
-
 ### Contribution graph:  <br />
 [![Nahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/0nahid/github-readme-activity-graph)
 
 ### GitHub Stats:  <br />
 <p align = "center">
- <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&hide_border=true" /> 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nahid">
-</p>
+ <img align="left" alt="devcleverton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&hide_border=true" /> 
+ </p>
 
 <br />
 
  
-<p align = "left"> 
+
     
    
-  <a href="https://www.canva.com/" alt="Canva">
-    <img src = "https://img.shields.io/badge/-Canva-9932CC?style=for-the-badge&logo=canva&logoColor=white&link=https://www.canva.com/" /> </a>
-</p>
-
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
-
-</p>
+  
 <p align = "left" style = "text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large;">
     Entrar em contato:
 </p>
@@ -115,10 +87,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
   
   <a href="" alt="Linkedin">
   <img src = "https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/cleverton-rocha-dev/"/> </a>
-
-  <a href="https://.medium.com" alt="Medium">
-  <img src = "https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://https://medium.com/" / > </a>
-
+  
   <a href="https://twitter.com" alt="Twitter">
     <img src = "https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com" /> </a>
   
