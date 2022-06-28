@@ -2,12 +2,7 @@
  ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-pixela/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-pixela)
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
-[![Release Feed](https://img.shields.io/badge/release-feed-yellow)](https://github.com/peaceiris/actions-pixela/releases.atom) 
-[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-
-
-
 
 
 
@@ -19,14 +14,6 @@
   <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
   <br>
   
-
-
-
-
-
-
-
-
 
 >Curso recente PHP-7
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0596db90-02bb-4a48-aeb1-06ba0496ae3e.jpg" width="248" height="158">
@@ -63,7 +50,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### Contribution graph:  <br />
-[![Nahid's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/0nahid/github-readme-activity-graph)
+[![devcleverton's github activity graph](https://activity-graph.herokuapp.com/graph?username=0nahid&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/devcleverton/github-readme-activity-graph)
 
 ### GitHub Stats:  <br />
 <p align = "center">
