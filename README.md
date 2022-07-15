@@ -1,13 +1,13 @@
 
- ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-pixela/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-pixela)
+![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-pixela/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-pixela)
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 
 
-<p align="center">
-  <b> Olá pessoal </b> <br> <br>
+
+ Hi , I'm Cleverton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   
 >	<br> I am a Developer/Designer UX/UI<br><br>
 	
