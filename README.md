@@ -11,8 +11,8 @@
   
 >	<br> I am a Developer/Designer UX/UI<br><br>
 	
-  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
-  <br>
+ <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
+ <br>
   
 
 >Curso recente PHP-7
