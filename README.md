@@ -11,18 +11,16 @@
   
 >	<br> I am a Developer/Designer UX/UI<br><br>
 # *Curriculo:* [![Deploy Site:](https://vercel.com/button)](https://drive.google.com/file/d/1yUlAjnOk6WKBCQFXVLyQ4K0nKeygWSx4/view)
-# *Sistema* [![SFazure](https://aka.ms/deploytoazurebutton)](https:/)
-
 
 	
  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
  <br>
   
 
->Curso recente PHP-7
+
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0596db90-02bb-4a48-aeb1-06ba0496ae3e.jpg" width="248" height="158">
 
-> Outros Cursos: react.js -reactNative - node.js - javascript na rocktseat
+> Outros Cursos: react.js -reactNative - node.js - javascript na Rocktseat
 
 <a href="https://app.rocketseat.com.br">
 <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
@@ -109,8 +107,8 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 [![DevCleverton's github status](https://github-readme-stats.vercel.app/api?username=DevCleverton&theme=dark&show_icons=true&count_private=true)](https://github.com/Devcleverton)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcleverton)](https://github.com/devcleverton/github-readme-stats)
-
- <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcleverton&theme=2077)
+          <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
 **trabalhos Google" Analista Social Midia**
  > Sites/websites - Google meu negocio -ads google street view 360 virtual tour
