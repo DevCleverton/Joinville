@@ -1,4 +1,4 @@
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevcleverton&count_bg=%2379C83D&title_bg=%23555555&icon=fastify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Greetings](https://github.com/DevCleverton/sing-Master/workflows/Greetings/badge.svg) ![CI](https://github.com/DevCleverton/sing-Master/workflows/CI/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
@@ -105,7 +105,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 </br>
 
 [![DevCleverton's github status](https://github-readme-stats.vercel.app/api?username=DevCleverton&theme=dark&show_icons=true&count_private=true)](https://github.com/Devcleverton)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devcleverton&theme=2077)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcleverton)](https://github.com/devcleverton/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcleverton&theme=2077)
           <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
