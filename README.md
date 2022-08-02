@@ -5,8 +5,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=devcleverton.visitor-badge)
 
 
-
-
  Hi , I'm Cleverton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   
 >	<br> I am a Developer/Designer UX/UI<br><br>
@@ -33,7 +31,11 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 />
 
 <p align = "left">
-   :wrench: Ferramentas  ⚙️
+   :wrench: Ferramentas  ⚙️IDE:
+   
+   ![JavaScript](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)&nbsp;
+   
+  
   <p class = "left">
 	  🛠 &nbsp;Tech Stack
 
