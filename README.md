@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevcleverton&count_bg=%2379C83D&title_bg=%23555555&icon=fastify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Se[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevcleverton&count_bg=%2379C83D&title_bg=%23555555&icon=fastify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![codecov](https://codecov.io/gh/peaceiris/actions-pixela/branch/main/graph/badge.svg)](https://codecov.io/gh/peaceiris/actions-pixela)
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=devcleverton.visitor-badge)
@@ -7,7 +7,7 @@
  Hi , I'm Cleverton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   
 >	<br> I am a Developer/Designer UX/UI<br><br>
-# *Ver Curriculo ➡️ :* [![Deploy Site:](https://vercel.com/button)](https://drive.google.com/file/d/1yUlAjnOk6WKBCQFXVLyQ4K0nKeygWSx4/view)
+#*Ver Curriculo ➡️* [![Deploy Site:](https://vercel.com/button)](https://drive.google.com/file/d/1yUlAjnOk6WKBCQFXVLyQ4K0nKeygWSx4/view)
 
 	
  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
