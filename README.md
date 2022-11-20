@@ -112,9 +112,20 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcleverton&theme=2077)
           <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
-**trabalhos Google" Analista Social Midia**
- > Sites/websites - Google meu negocio -ads google street view 360 virtual tour
- > Criaçao de paginas facebook/Bussiness instagram, anuncios ads  google analytics
+**trabalhos Google" Analista **
+ > Google meu negócio, street viuws
+atualizações em geral fotos 360, tuor Empresarial
+Seo Planejamento estratégico de redes socias, tráfego pago, Designer UI UX , Otimização de Site
+• Criação redes sociais e aplicação nas redes; Banners,
+• Integraçao em redes sociais
+• Planejamento e sugestão de ações com influenciadores;
+• Extração de dados, análise de métricas,
+• Geração de relatórios com insights de sociais
+• Estratégica e engajamento
+• Criaçao de Websites
+• campanhas
+• Coleta e analise, Melhorias conforme feedback do clientes para empresas.
+ 
  
  [ Shopping muller joinville e lojas ](https://g.page/muellerjoi?share)
  
