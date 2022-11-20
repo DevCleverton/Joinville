@@ -7,7 +7,7 @@
  Hi , I'm Cleverton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   
 > <br> I am a Developer/Designer UX/UI<br><br>
-#*Curriculo Atualizado Baixar ➡️* [![Deploy Site:](https://vercel.com/button)](https://drive.google.com/file/d/10Ijg00FV84CeirHTghg74awqTDasEjYH/view?usp=share_link)
+#*Curriculo➡️* [![Deploy Site:](https://vercel.com/button)](https://drive.google.com/file/d/1sTzlz8sRgAx5cZAh8mYMYgtfvXIPs7va/view?usp=share_link)
 
 	
  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
