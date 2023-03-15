@@ -80,7 +80,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
     <img src = "https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com" /> </a>
   
   <a href="https://api.whatsapp.com/send?phone=5547997511535&text=Olá%code,%20tudo%20bem?" alt="WhatsApp">
-  <img src= "https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/"send?phone=5547997511535&text=Olá%20,%20tudo%20bem?" /> </a> </p>
+  <img src= "https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/"send?phone=554799338319&text=Olá%20,%20tudo%20bem?" /> </a> </p>
 
 #### Arquiteturas & Outros
 
