@@ -7,7 +7,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   
 > <br> I am a Developer/Designer UX/UI<br><br>
-Curriculo <br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devcleverton&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br>
 [![Deploy Site:](https://vercel.com/button)](https://drive.google.com/file/d/1sTzlz8sRgAx5cZAh8mYMYgtfvXIPs7va/view?usp=share_link)
 
 	
@@ -145,9 +146,9 @@ Seo Planejamento estratégico de redes socias, tráfego pago, Designer UI UX , O
  
  
  
- 
  <img
 	src="https://media.tenor.com/images/073a8ff32903b5f5315c4cf62b9b90a0/tenor.gif"
 	width="160px"
 	height="120px"
 	align="right">
+	 
