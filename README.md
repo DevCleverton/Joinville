@@ -9,7 +9,7 @@
 > <br> I am a Developer/Designer UX/UI<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devcleverton&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br>
-[![Deploy Site:](https://vercel.com/button)](https://drive.google.com/file/d/1sTzlz8sRgAx5cZAh8mYMYgtfvXIPs7va/view?usp=share_link)
+[![Deploy Site:](https://vercel.com/button)]()
 
 	
  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
