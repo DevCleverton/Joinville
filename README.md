@@ -6,7 +6,7 @@
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
   
-> <br> I am a Developer/Designer UX/UI<br><br>
+> <br> Seo I am a Developer/Designer UX/UI<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devcleverton&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br>
 
