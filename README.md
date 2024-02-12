@@ -19,7 +19,7 @@
 
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0596db90-02bb-4a48-aeb1-06ba0496ae3e.jpg" width="248" height="158">
 
-> Outros Cursos: react.js -reactNative - node.js - javascript na Rocktseat
+
 
 <a href="https://app.rocketseat.com.br">
 <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
@@ -66,7 +66,7 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)	  
 <p align = "left" style = "text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large;">
-    Entrar em contato:
+    Contato:
 </p>
 
 <p class = "left">
@@ -113,10 +113,10 @@ src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dar
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcleverton&theme=2077)
           <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
  
-**trabalhos Google" Analista **
+**trabalhos Google" **
  > Google meu negócio, street viuws
 atualizações em geral fotos 360, tuor Empresarial
-Seo Planejamento estratégico de redes socias, tráfego pago, Designer UI UX , Otimização de Site
+Seo Planejamento estratégico de redes socias, tráfego pago, Otimização de Site
 • Criação redes sociais e aplicação nas redes; Banners,
 • Integraçao em redes sociais
 • Planejamento e sugestão de ações com influenciadores;
